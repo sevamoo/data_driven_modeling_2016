@@ -1,4 +1,4 @@
-## Repository for the codes and presentations of PhD seminar series on Data Driven Modeling
+## Codes and presentations for Data Driven Modeling course at ETH Zurich, chair for Computer Aided Architectural Design (CAAD)
 <hr style="height:2px;border:none;color:stillblue;background-color:black;" />
 
 * Lecturer: [`Vahid Moosavi`](https://vahidmoosavi.com/), senior researcher at the Chair for [`Computer Aided Architectural Design (CAAD)`](http://www.caad.arch.ethz.ch/) at ETH Zurich.
