@@ -7,5 +7,5 @@
 
 * For more information, you can contact me via sevamoo@gmail.com or svm@arch.ethz.ch
 
-* [Poster of the course for fall Semester 2016](poster-print01.pdf) 
-* [Poster of the course for Spring Semester 2017](poster-print01_2017.pdf) 
+* [Poster of the course for fall semester 2016](poster-print01.pdf) 
+* [Poster of the course for spring semester 2017](poster-print01_2017.pdf) 
