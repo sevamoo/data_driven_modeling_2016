@@ -1,4 +1,4 @@
-## Codes and presentations for Data Driven Modeling course at ETH Zurich, chair for Computer Aided Architectural Design (CAAD)
+## Codes and presentations of Data Driven Modeling course at ETH Zurich, chair for Computer Aided Architectural Design (CAAD)
 <hr style="height:2px;border:none;color:stillblue;background-color:black;" />
 
 * Lecturer: [`Vahid Moosavi`](https://vahidmoosavi.com/), senior researcher at the Chair for [`Computer Aided Architectural Design (CAAD)`](http://www.caad.arch.ethz.ch/) at ETH Zurich.
@@ -7,5 +7,5 @@
 
 * For more information, you can contact me via sevamoo@gmail.com or svm@arch.ethz.ch
 
-* [Course Catalogue for Fall Semester 2016](poster-print01.pdf) 
-* [Course Catalogue for Spring Semester 2017](poster-print01_2017.pdf) 
+* [Poster of the course for fall Semester 2016](poster-print01.pdf) 
+* [Poster of the course for Spring Semester 2017](poster-print01_2017.pdf) 
